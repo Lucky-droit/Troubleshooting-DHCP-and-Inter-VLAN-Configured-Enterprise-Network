@@ -22,6 +22,6 @@ This project demonstrates the implementation and troubleshooting of an enterpris
 2. Open it in Cisco Packet Tracer
 3. Review configurations and simulate troubleshooting scenarios
 
-## Author
-Lucky Prajapati
+## 👤 Author
+**Lucky Prajapati**  
 Aspiring Network Engineer
